@@ -13,3 +13,9 @@
     * JS - base
     * PHP - base
     * Bootstrap 4+
+* ## Portfolio 
+    * Developed, launched and support the website of the general health department: [gomeluzo.by](https://gomeluzo.by "link to")
+* ## Education 
+    * Belarusian State University of Transport
+* ## English 
+    * B1 - elementary [result link](https://www.efset.org/cert/v2V7om "result link")
